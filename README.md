@@ -1,1 +1,1 @@
-Repositório criado para estudar Kafka
+Repositório criado para estudar Symfony com Kafka
